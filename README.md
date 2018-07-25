@@ -1,5 +1,5 @@
-# javascript_project
-project using core java-script only
+# Events using EventBrite API: 
+project using core java-script 
 Events using EventBrite API: 
 It is a Web Application to search the events in your  locality by  your genre ,it contains two fields ,
 first field is to select the category of events(e.g. Music ,Art & Craft, Sports, Drama etc.) and 
